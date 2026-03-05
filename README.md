@@ -28,6 +28,7 @@ If you need to train images, run the script:
 ./run_train_da_x8.sh
 ./run_train_da_x16.sh
 ```
+Pretrained models are in release.
 
 # Acknowledgement
 Most of the code is based on the work of [SwinPaste](https://github.com/zoniazhong/SwinPaste) and [SwinFuSR](https://github.com/VisionICLab/SwinFuSR).thanks to the team for their inspiration!
