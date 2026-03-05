@@ -30,4 +30,4 @@ If you need to train images, run the script:
 ```
 
 # Acknowledgement
-Most of the code is based on the work of [SwinPaste](https://github.com/zoniazhong/SwinPaste).thanks to the team for their inspiration!
+Most of the code is based on the work of [SwinPaste](https://github.com/zoniazhong/SwinPaste) and [SwinFuSR](https://github.com/VisionICLab/SwinFuSR).thanks to the team for their inspiration!
